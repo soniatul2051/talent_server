@@ -20,6 +20,13 @@ MongoDB + Mongoose
 
 CORS enabled
 
+🗝️ Environment Variables
+
+Create a .env file in the root of your backend folder and add the following:
+
+MONGODB_URI=<your-mongodb-connection-string>
+PORT=5000
+
 🔧 Setup
 bash
 cd backend
